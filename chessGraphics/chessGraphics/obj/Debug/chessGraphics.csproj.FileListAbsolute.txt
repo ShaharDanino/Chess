@@ -1,0 +1,10 @@
+C:\Users\Magshimim\Documents\Magshimim\כיתה יא\עקרונות\chess_project\chessGraphics\chessGraphics\bin\Debug\chessGraphics.exe.config
+C:\Users\Magshimim\Documents\Magshimim\כיתה יא\עקרונות\chess_project\chessGraphics\chessGraphics\bin\Debug\chessGraphics.exe
+C:\Users\Magshimim\Documents\Magshimim\כיתה יא\עקרונות\chess_project\chessGraphics\chessGraphics\bin\Debug\chessGraphics.pdb
+C:\Users\Magshimim\Documents\Magshimim\כיתה יא\עקרונות\chess_project\chessGraphics\chessGraphics\obj\Debug\chessGraphics.csproj.AssemblyReference.cache
+C:\Users\Magshimim\Documents\Magshimim\כיתה יא\עקרונות\chess_project\chessGraphics\chessGraphics\obj\Debug\chessGraphics.Form1.resources
+C:\Users\Magshimim\Documents\Magshimim\כיתה יא\עקרונות\chess_project\chessGraphics\chessGraphics\obj\Debug\chessGraphics.Properties.Resources.resources
+C:\Users\Magshimim\Documents\Magshimim\כיתה יא\עקרונות\chess_project\chessGraphics\chessGraphics\obj\Debug\chessGraphics.csproj.GenerateResource.cache
+C:\Users\Magshimim\Documents\Magshimim\כיתה יא\עקרונות\chess_project\chessGraphics\chessGraphics\obj\Debug\chessGraphics.csproj.CoreCompileInputs.cache
+C:\Users\Magshimim\Documents\Magshimim\כיתה יא\עקרונות\chess_project\chessGraphics\chessGraphics\obj\Debug\chessGraphics.exe
+C:\Users\Magshimim\Documents\Magshimim\כיתה יא\עקרונות\chess_project\chessGraphics\chessGraphics\obj\Debug\chessGraphics.pdb
